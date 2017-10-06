@@ -1,0 +1,28 @@
+{
+  "name": "simple-file-uploader",
+  "version": "1.0.0",
+  "description": "Simple image uploader to Amazon S3 with Express:JS and Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferreiro/simple-image-uploader.git"
+  },
+  "keywords": [
+    "Simple",
+    "image",
+    "uploader",
+    "node",
+    "amazon",
+    "s3",
+    "express.js"
+  ],
+  "author": "Jorge Ferreiro <jorge@ferreiro.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferreiro/simple-image-uploader/issues"
+  },
+  "homepage": "https://github.com/ferreiro/simple-image-uploader#readme"
+}
